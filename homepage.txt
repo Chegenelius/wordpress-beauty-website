@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<a href="http://localhost/wordpress"/></a>
+</html>
